@@ -8,6 +8,8 @@ This will download and convert to MP3s all the videos from a playlist/channel/us
 
 Read Youtube terms and conditions.
 
+This works on Mac and Linux but not on Windows.
+
 
 
 
